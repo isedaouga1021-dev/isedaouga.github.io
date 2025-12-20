@@ -1,0 +1,14 @@
+{
+  "equipments": [
+    {
+      "id": "cam_fx3",
+      "name": "SONY FX3",
+      "description": "フルサイズの動画向けシネマカメラ"
+    },
+    {
+      "id": "mic_gun",
+      "name": "ガンマイク",
+      "description": "指向性の高い収録用マイク"
+    }
+  ]
+}
