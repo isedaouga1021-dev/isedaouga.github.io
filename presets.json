@@ -1,0 +1,23 @@
+{
+  "scene_presets": [
+    {
+      "scene_name": "インタビュー",
+      "author": "伊勢田",
+      "equipment": [
+        "カメラ（SONY FX3）",
+        "三脚",
+        "ガンマイク",
+        "LEDライト"
+      ]
+    },
+    {
+      "scene_name": "屋外撮影",
+      "author": "山田",
+      "equipment": [
+        "ジンバル",
+        "予備バッテリー",
+        "NDフィルター"
+      ]
+    }
+  ]
+}
