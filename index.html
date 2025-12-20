@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>撮影機材プリセット共有</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>🎬 撮影機材プリセット</h1>
+
+  <section class="register">
+    <h2>プリセット登録（個人用）</h2>
+
+    <input id="sceneName" type="text" placeholder="シーン名（例：インタビュー）" />
+    <input id="authorName" type="text" placeholder="作成者名" />
+    <textarea id="equipmentList" placeholder="機材を1行ずつ入力"></textarea>
+
+    <button onclick="addPreset()">登録</button>
+  </section>
+
+  <section class="list">
+    <h2>共有プリセット一覧</h2>
+    <div id="presetContainer"></div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
